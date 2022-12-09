@@ -75,6 +75,15 @@ main {
     margin-left: 20px;
 }
 
+main img{
+    max-height: 200px;
+}
+
+main h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -160,6 +169,15 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+/*
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -169,9 +187,7 @@ aside {
     max-height: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
-}
+
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -181,12 +197,7 @@ aside {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+}*/
 
 footer {
     padding: 30px;
