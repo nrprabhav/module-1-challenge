@@ -1,1 +1,18 @@
 # module-1-challenge
+
+# Title: Code Refractor
+
+# Project Links
+Deployed Link:
+Repository Link:
+
+# Description
+The aim of the work was to refactor the code so that the code follows **accessibility** standards so that the site is optimized for search engines.
+
+# Work-flow
+1. Removed <div> tags with semantic HTML
+2. Make sure that links are working
+3. Changed h2,h3 tags to h1
+4. Consolidated elements related to **main** section
+5. Consolidated elements related to **aside** section
+6. Removed **ids** and used semantic tags or classes to address elements in css unless required for links
