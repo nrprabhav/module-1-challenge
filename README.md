@@ -16,3 +16,12 @@ The aim of the work was to refactor the code so that the code follows **accessib
 4. Consolidated elements related to *main* section
 5. Consolidated elements related to *aside* section
 6. Removed *ids* and used semantic tags or classes to address elements in css unless required for links
+
+# Screenshot
+The following is the look of the website when I started working on it:
+
+![](\assets\images\01-html-css-git-challenge-demo.png)
+
+The following is the look of the websites after I finished working in it:
+
+![](\assets\images\01-html-css-git-challenge-final.PNG)
