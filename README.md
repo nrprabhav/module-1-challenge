@@ -20,8 +20,11 @@ The aim of the work was to refactor the code so that the code follows **accessib
 # Screenshot
 The following is the look of the website when I started working on it:
 
-![](\assets\images\01-html-css-git-challenge-demo.png)
+![](./assets/images/01-html-css-git-challenge-demo.png)
 
 The following is the look of the websites after I finished working in it:
 
-![](\assets\images\01-html-css-git-challenge-final.PNG)
+![](./assets/images/01-html-css-git-challenge-final.PNG)
+
+# To-Do
+1. Add alt text to images
