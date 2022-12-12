@@ -4,6 +4,7 @@
 
 # Project Links
 Deployed Link: https://nrprabhav.github.io/module-1-challenge/
+
 Repository Link: https://github.com/nrprabhav/module-1-challenge
 
 # Description
@@ -16,6 +17,7 @@ The aim of the work was to refactor the code so that the code follows **accessib
 4. Consolidated elements related to *main* section
 5. Consolidated elements related to *aside* section
 6. Removed *ids* and used semantic tags or classes to address elements in css unless required for links
+7. Added *alt* text to images
 
 # Screenshot
 The following is the look of the website when I started working on it:
@@ -25,6 +27,3 @@ The following is the look of the website when I started working on it:
 The following is the look of the websites after I finished working in it:
 
 ![](./assets/images/01-html-css-git-challenge-final.PNG)
-
-# To-Do
-1. Add alt text to images
